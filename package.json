@@ -8,6 +8,7 @@
     "test-app-watch": "meteor test --full-app --driver-package practicalmeteor:mocha --port 3100",
     "prestart:dev": "echo \"load ENV variables like kadira\"",
     "start:dev": "meteor --settings=config/development/settings.json",
+    "start:c9dev": "meteor --port $IP:$PORT --settings=config/development/settings.json",
     "lint": "eslint ."
   },
   "dependencies": {
