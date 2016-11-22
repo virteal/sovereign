@@ -45,11 +45,11 @@
 
     "app": {
 
-      "name": "Sovereign",
-      "language": "en",
+      "name": "Suvranu",
+      "language": "fr",
       "development": true,
       "version": "0.1.0",
-      "codename": "Quixote",
+      "codename": "Eve",
       "config":
         {
           "blockchainLogin": false,
@@ -60,39 +60,39 @@
     },
 
     "Collective": {
-      "name": "Democracy Earth",
-      "domain": "https://localhost:3000",
+      "name": "Suvranu",
+      "domain": "https://suvranu-jhr.c9users.io/",
       "emails": [
         {
-          "address": "hello@democracy.earth",
+          "address": "jhr@baronmariani.org",
           "verified": true
         }
       ],
-      "createdAt": "January 12, 2015",
+      "createdAt": "November 22, 2016",
 
       "profile": {
-        "website": "https://democracy.earth",
-        "bio": "A planetary commons of peers.",
+        "website": "https://www.facebook.com/Suvranu-1288498477874286/",
+        "bio": "A corsican commons of peers.",
         "blockchain": {
           "address": "0"
         },
         "logo": "images/democracy-earth.png",
         "jurisdiction": {
           "legal": {
-              "taxId": "37-1776296",
-              "name": "Democracy Earth Foundation",
-              "type": "Non-Profit 501(c)3"
+              "taxId": "wip",
+              "name": "Démocratie Directe Corse",
+              "type": "Association loi 1901"
           },
           "location": {
-            "address": "Anywhere you find an Earth Flag",
-            "state": "California",
+            "address": "Casa Mariani, route de Castiral, 20250 Corte",
+            "state": "Corse",
             "country": {
-              "name": "United States of America",
-              "code": "US"
+              "name": "France",
+              "code": "FR"
             }
           }
         },
-        "foundation": "January 12, 2015",
+        "foundation": "November 22, 2016",
         "wallet": {
           "available": 21000000,
           "balance": 21000000,
